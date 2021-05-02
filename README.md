@@ -24,3 +24,6 @@ This is slight different from the version I used in the webinar. The script incl
 3. converting the date column 
 4. reading the covid19 restriction time series
 5. combining trip data and covid restriction data
+
+## To view the maps ##
+Paste https://chaumanfung.github.io/webinar/combined.html (replace last part with the html you want to view) to your browser.
