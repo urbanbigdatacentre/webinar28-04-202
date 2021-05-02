@@ -26,6 +26,6 @@ This is slight different from the version I used in the webinar. The script incl
 5. combining trip data and covid restriction data
 
 ## view the maps here ##
-https://chaumanfung.github.io/webinar/bru1.html 
-https://chaumanfung.github.io/webinar/hull1.html 
-https://chaumanfung.github.io/webinar/combined.html 
+https://chaumanfung.github.io/webinar/bru1.html <br>
+https://chaumanfung.github.io/webinar/hull1.html <br>
+https://chaumanfung.github.io/webinar/combined.html <br>
