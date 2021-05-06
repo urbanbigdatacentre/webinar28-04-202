@@ -18,7 +18,7 @@ The lines of codes for setting up a database and scheduling the task for regular
 Two simple examples for bike availability are included (Citibike, Nextbike).<br>
 
 ## London.R ##
-This is slight different from the version I used in the webinar. The script includes:
+This is slightly different from the version I used in the webinar. The script includes:
 1. generating a list of links for file download (e.g., all csv files ending in '2020.csv'), instead of downloading a zip file
 2. reading the list of files that are unzipped
 3. converting the date column 
